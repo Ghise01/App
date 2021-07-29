@@ -1,0 +1,61 @@
+h1, h2,h3{
+    color: green;
+}
+
+
+
+
+#arriba{
+  
+    float: left;
+    color:black;
+    padding: 10px;
+    text-align: l;
+}
+#imagenes{
+    float: right;
+}
+
+#cabecera{
+   
+    clear: both;
+    color:black;
+    padding: 30px;
+    text-align: left;
+}
+
+
+
+
+table.productos{
+    margin-top: 50px;
+    background-color:#DAF7A6;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 9px;
+}
+    
+#lista{
+
+    clear: both;
+    float: left;
+    color:black;
+    padding: 30px;
+    text-align: rig;
+}
+
+#formulario{
+  
+    clear: both;
+    color:black;
+    padding: 30px;
+    text-align: center;
+}
+
+#footer{
+    background-color:black;
+    clear: both;
+    color:cornsilk;
+    padding: 30px;
+    text-align: center;
+}
